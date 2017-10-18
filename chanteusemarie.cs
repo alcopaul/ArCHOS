@@ -4,7 +4,7 @@ using System;
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ya tebya lyublyu!");
+            Console.WriteLine("YA TEBYA LYUBLYU :)");
             Console.ReadKey();
         }
     }
