@@ -2,6 +2,6 @@ import system.
 
 program =
 [
-    console writeLine:"Mahal kita!".
+    console writeLine:"MAHAL KITA :)".
     console readChar.
 ].
